@@ -40,11 +40,11 @@ On a **8 Jours** de projet. Une proposition d'organisation du temps est la suiva
 * Livrable et documentation du projet 
   *  **Durée** : **1 Jour**, le 12/09/2022
   *  **Outils** : *git*, *Markdown*
-  * **Ce qu'il faut faire** : A ce stade, vous avez un projet complet. Votre application peut se déployer from scratch à l'aide d'une seule ligne de commande. Il est à présent question de fournir un livrable final contenant la documentation de votre projet. Ce livra devra : 
+  * **Ce qu'il faut faire** : A ce stade, vous avez un projet complet. Votre application peut se déployer from scratch à l'aide d'une seule ligne de commande. Il est à présent question de fournir un livrable final contenant la documentation de votre projet. Ce livrable devra : 
     * être présente sur un repos github ou gitlab
     * contenir l'ensemble des ressources nécessaires au déploiement de votre application
     * contenir un fichier Readme.md, redigé en Markdown, qui explique très clairement comment utilisé votre travail. [Voici](https://stackedit.io/) un site pour écrire du markdown facilement.
-
-
-:warning:  
+    * Contenir un Powerpoint pour une présentaiton de 10 min de votre travail auprès d'un jury composé de personnes non techniques.
+    
+    :warning: La documentation est plus importante que le code en lui même
 
