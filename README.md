@@ -2,16 +2,19 @@
 
 
 ## Contexte 
- Automatiser le déploiement d'une application 2 tiers (**Frontend** + **backend**)
-### Le frontend
- Il pourait être un simple site statique, ou une appli php, python, nodejs, peu importe
+Il est question mettre en pratique les modules vus dans le cadre du programme DevOps. Les différents modules ont été abordés séparément, dans ce projet, on va prendre quelques un et mettre un fil conducteur afin de produire une chaîne industrialisée.
+## Sujet 
+ Automatiser le déploiement d'une application 2 tiers (**Frontend** + **backend**). L'application pourrait être un wordpress, ou toute application. Vous êtes libre de dévelloper l'application, ou alors de prendre une application déja existante dans la communauté ([mediawiki](https://www.mediawiki.org/wiki/Manual:Installing_MediaWiki) par example)
+#### Le frontend
+ Il pourait être un simple site statique, ou une appli php, python, nodejs, peu importe.
 
-### Le Backend 
+#### Le Backend 
 Il pourrait être une Base de donnée mysql ou mariadb, ou même une API toute simple.
 
 
 
-## Outils indispensables: 
+## Outils indispensablesà utiliser: 
+Les outils suivants devront être utilisés. Vous pouvez en rajouter si vous vous en sentez capables.
 - Ansible
 - Vagrant
 - Virtualbox
