@@ -44,5 +44,7 @@ On a **8 Jours** de projet. Une proposition d'organisation du temps est la suiva
     * être présente sur un repos github ou gitlab
     * contenir l'ensemble des ressources nécessaires au déploiement de votre application
     * contenir un fichier Readme.md, redigé en Markdown, qui explique très clairement comment utilisé votre travail. [Voici](https://stackedit.io/) un site pour écrire du markdown facilement.
+
+
 :warning:  
 
