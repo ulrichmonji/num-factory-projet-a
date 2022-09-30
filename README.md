@@ -2,12 +2,12 @@
 
 
 ## Contexte 
- Automatiser le déploiement d'un application 2 tiers (**Frontend** + **backend**)
+ Automatiser le déploiement d'une application 2 tiers (**Frontend** + **backend**)
 ### Le frontend
- Il pourait être un simple site statique, ou une appli php, python, node, peu importe
+ Il pourait être un simple site statique, ou une appli php, python, nodejs, peu importe
 
 ### Le Backend 
-Il pourrait être une Base donnée mysql ou mariadb.
+Il pourrait être une Base de donnée mysql ou mariadb, ou même une API toute simple.
 
 
 
@@ -29,11 +29,11 @@ On a **8 Jours** de projet. Une proposition d'organisation du temps est la suiva
   *  **Durée** : **4 Jours**, du 5/09/2022 au 10/09/2022
   *  **Outils** : *git*, *ansible*
   * **Ce qu'il faut faire** : Etant donné votre documentation d'installation rédigée à la précédente partie, il faudrait à présent développer un playbook ansible qui permet d'automatiser l'installation. 
-* Integration des outils Vagrant/virtualbox/vmware/bash (1 Jour)
+* Integration des outils
   *  **Durée** : **1 Jour**, le **11/09/2022**
-  *  **Outils** : *git*, *vagrant*, *virtualbox*, *vmware*,*bash*
+  *  **Outils** : *git*, *vagrant*, *virtualbox*, *vmware*, *bash*
 
-  * **Ce qu'il faut faire** : A ce stade, vous avez un playbook ansible qui installe votre application. Cependant, le provisioning de votre infrastructure de travail n'est pas automatique. A l'aide de l'outil **vagrant**, il faudrait automatiser le provisioning de votre infrastructure, et une fois provisionné, vagrant laissera la main à votre playbook ansible pour déployer l'application.
+  * **Ce qu'il faut faire** : A ce stade, vous avez un playbook ansible qui installe votre application. Cependant, le provisioning de votre infrastructure de travail n'est pas automatique. A l'aide de l'outil **vagrant**, il faudrait automatiser le provisioning de votre infrastructure, et une fois provisionné, vagrant laissera la main à votre playbook ansible pour déployer l'application. [Voici](https://www.youtube.com/watch?v=z4209uoIbmk&t=7376s&ab_channel=eazytraining) un tutoriel sur **vagrant**, et [ici](https://github.com/diranetafen/cursus-devops/tree/master/vagrant) vous trouverez des exemples de stack vagrant.
 * Livrable et documentation du projet 
   *  **Durée** : **1 Jour**, le 12/09/2022
   *  **Outils** : *git*, *Markdown*
