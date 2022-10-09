@@ -46,15 +46,15 @@ On a **8 Jours** de projet. Une proposition d'organisation du temps est la suiva
     * contenir un fichier Readme.md, redigé en Markdown, qui explique très clairement comment utilisé votre travail. [Voici](https://stackedit.io/) un site pour écrire du markdown facilement.
     * Contenir un Powerpoint pour une présentaiton de 10 min de votre travail auprès d'un jury composé de personnes non techniques.
     
-### Le Readme du projet
+### Contenu du Readme du projet
 :warning: La documentation est plus importante que le code en lui même.
 
 
 Les éléments suivant devront figurer dans le Readme.
 
 - La description de votre application
-- Un schéma d'architecture
-- Les caractéristiques de l'environnement technique des VMs, telles que la RAM, la CPU, l'OS, etc ...
+- Un schéma d'architecture. Vous pouvez en créer [ici](https://draw.io/)
+- Les caractéristiques de l'environnement technique des VMs, telles que la RAM, la CPU, l'OS, l'hyperviseur, etc ...
 - L'ensemble des middlewares et services utilisés, et surtout leurs versions
 - La description de votre code source, à savoir les playbooks, script shell, Vagrantfiles, etc ...
 - Une synthèse de votre travail
